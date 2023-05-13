@@ -6,9 +6,11 @@
 2. Directives et Pipes
 3. Services et Routing
 
-### Links
+## Links
 
 [TypeScrpt Documentation](https://www.typescriptlang.org)
+
+## Les bases
 
 Angular est un framework Javascript.
 
