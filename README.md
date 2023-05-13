@@ -8,7 +8,7 @@
 
 ## Links
 
-[TypeScrpt Documentation](https://www.typescriptlang.org)
+[TypeScript Documentation](https://www.typescriptlang.org)
 
 ## Les bases
 
@@ -20,7 +20,7 @@ Le TypeScript est :
 - un language avec du typage strict
 - l'un des langages principaux d'Angular
 
-Dans Angular CLI, CLI signifie Commande Line Interface.
+Dans Angular CLI, `CLI` signifie Commande Line Interface.
 
 Pour créer une nouvelle app Angular il faut se servir de la commande ` ng new`.
 
